@@ -1,0 +1,32 @@
+[
+  {
+    "id": "highland",
+    "name": "Highland",
+    "imageUrl": "https://play-lh.googleusercontent.com/WthZu0rfWhv08r5CF24ideqmnAJiJ3oPn6-LEUObkLG82EB6lHHjWuGzVLQJ0NOVEtd9"
+  },
+  {
+    "id": "banh-mi-huynh-hoa",
+    "name": "Bánh mì Huỳnh Hoa",
+    "imageUrl": "https://hestiafood.com.vn/wp-content/uploads/2022/10/Chat-voi-chung-toi-2.png"
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "imageUrl": "https://play-lh.googleusercontent.com/O3geEaphALVx3jeI70oudMvyNTDTVVLLAd1jXFuI-oUv4bE7wQn4IPn2Y1cW8rgMElM"
+  },
+  {
+    "id": "jollibee",
+    "name": "Jollibee",
+    "imageUrl": "https://play-lh.googleusercontent.com/W_DYClcNS6Jge8IZJIocA_fr6qkz7wbB_Xq92o8ACa-nYRl8ZzAiVenxqdPxu5aFb3Mb"
+  },
+  {
+    "id": "pizzahut",
+    "name": "Pizza Hut",
+    "imageUrl": "https://play-lh.googleusercontent.com/75zvOkV2CUS775itXQv8mDTUGn1Cl4Y7jxyx2Y91VajUBVeVP2BOTI83g9th8twuuw"
+  },
+  {
+    "id": "mc-donald",
+    "name": "McDonald's",
+    "imageUrl": "https://loop.com.vn/storage/logo-m-01.jpg"
+  }
+]
