@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Bánh bao",
+        "imageUrl": "https://thumbs.dreamstime.com/b/banh-bao-isolated-white-background-delicious-steamed-bun-filled-savory-ingredients-363408595.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Gà rán",
+        "imageUrl": "https://homepage.momocdn.net/blogscontents/momo-upload-api-191223210217-637127317379959333.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Nước ngọt",
+        "imageUrl": "https://nutifood.com.vn/files/nutritionhouse/NUTIFOOD-SSQ/PRODUCT/PACKSHOT/2-PACKSHOTS/packshot-fruit-610x610px-eng.png"
+    }
+]
